@@ -33,4 +33,4 @@ I am a pre-final year Computer Science Engineering student at AVN IET (8.0 CGPA)
 * **The Goal:** Processed complex datasets to maintain data integrity and created dashboards to visualize key performance metrics for data-driven decision making.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn URL Here]
+* **LinkedIn:** [www.linkedin.com/in/chaitanya-bandameedi-a73666353]

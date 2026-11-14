@@ -79,8 +79,6 @@ I'm continuously improving my development skills through practical projects, pro
 - Designed a responsive user interface.
 - Implemented context-aware conversational logic using reusable JavaScript modules.
 
-🔗 **[View Mental Health Chatbot Repository](https://github.com/Chaitanya-456/Mental-Health-Chatbot)**
-
 ---
 
 ### 💼 Internship Experience
@@ -113,18 +111,9 @@ I'm continuously improving my development skills through practical projects, pro
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-456&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-456&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 
-- **GitHub:** [Chaitanya-456](https://github.com/Chaitanya-456)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chaitanya-bandameedi/)
+- **LinkedIn:** www.linkedin.com/in/chaitanyabandameedi
 
 ---
 
